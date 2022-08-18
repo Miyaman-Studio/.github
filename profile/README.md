@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to Miyaman Studio’s Github Page
+
+Currently still under construction
 
 <!--
 
